@@ -1,0 +1,6 @@
+# GitHub Pages deployment
+.DS_Store
+Thumbs.db
+*.tmp
+desktop.ini
+PHOTO_INSTRUCTIONS.txt

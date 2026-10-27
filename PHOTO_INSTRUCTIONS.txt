@@ -1,0 +1,8 @@
+<!-- OWNER PHOTO INSTRUCTIONS:
+     The actual photo of Malik Suleman Awan was provided.
+     Please manually copy the photo file and name it: owner.jpg
+     Place it in the same folder as index.html
+     
+     The photo section is already styled and ready in the website.
+     Once owner.jpg is in the folder, it will display automatically.
+-->
